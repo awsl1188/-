@@ -55,7 +55,7 @@ The Power BI dashboard presents key operating indicators, monthly trends, weekda
 
 ### 1. Monthly Operating Performance
 
-![Monthly Operating Performance](images/01_monthly_daily_business.png)
+![Monthly Operating Performance](images/01_monthly_daily_business_optimized.png)
 
 Average daily trip volume increased continuously during the first quarter of 2024. March achieved the highest average daily order volume and transaction amount.
 
